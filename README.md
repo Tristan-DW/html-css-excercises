@@ -41,7 +41,6 @@
 git clone https://github.com/Tristan-DW/html-css-excercises.git
 cd html-css-excercises
 
-# Open in browser
 open index.html
 ```
 
@@ -74,22 +73,6 @@ Contributions are welcome! Feel free to:
 ##  License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-**Made with love by [Tristan Wentzel](https://github.com/Tristan-DW)**
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Built by <a href="https://github.com/Tristan-DW">Tristan Wentzel</a></sub>
-
-</div>
 
 ---
 
